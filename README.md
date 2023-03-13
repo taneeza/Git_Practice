@@ -1,4 +1,5 @@
 # This is the heading
 
-##this is the sunheading
+##this is the sub heading
+
 This is a git class
